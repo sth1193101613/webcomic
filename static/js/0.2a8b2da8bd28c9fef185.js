@@ -1,0 +1,2 @@
+webpackJsonp([0],{BwmC:function(c,a,i){"use strict";a.a=function(c){var a=e()({},n.a,{comic_id:c,device_id:"a063722458e9523d94b09a99c00760a8"});return Object(o.a)("https://proxy.comicool.cn/comicdetail4web",a,n.b)};var t=i("aA9S"),e=i.n(t),o=i("Gak4"),n=i("W/7t")}});
+//# sourceMappingURL=0.2a8b2da8bd28c9fef185.js.map
